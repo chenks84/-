@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 import requests
 import time
-#请从火狐浏览器获取cookies
+
 cookies_a = ''
 cookies_b = ''
 
